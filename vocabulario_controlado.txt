@@ -1,0 +1,94 @@
+#
+ANUIDADE DE PEDIDO DE PATENTE
+Definição: O depositante do pedido e o titular da Patente estarão sujeitos ao pagamento de retribuição anual, denominadas anuidades. As anuidades deverão ser pagas a partir do segundo aniversário do pedido. Aí começa o prazo (3 meses) para pagamento da anuidade (que é chamada de terceira anuidade, pois é devida no início do terceiro ano).Perdendo este prazo, são concedidos mais 6 meses, mas o valor a ser pago também é maior. Deixar de fazê-lo vai acarretar o arquivamento do pedido ou patente.
+Fonte: INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL. Perguntas frequentes. Patentes. 2020. Disponível em: https://www.gov.br/inpi/pt-br/servicos/perguntas-frequentes/patentes. Acesso em: 20 jul. 2023. 
+Sinônimos: pagamento de anuidade de pedido de patente; pagamento de anuidade de registro de patente.
+Perguntas similares: Quando começa o pagamento das anuidades do pedido de patente? Quando se inicia a necessidade de pagar as taxas anuais para um pedido de patente? Em que momento devo começar a pagar as anuidades para o meu pedido de patente? Quando se deve começar a pagar as taxas anuais de um pedido de patente? Quando é que as anuidades para um pedido de patente começam a ser cobradas? Em que ponto o pagamento das taxas anuais de um pedido de patente começa? Quando começo a pagar as anuidades após fazer um pedido de patente? Quando inicia a obrigação de pagar as anuidades de um pedido de patente? Quando se deve iniciar o pagamento das anuidades de um pedido de patente? Em que momento começam a ser cobradas as anuidades de um pedido de patente? Quando começa a cobrança das anuidades de um pedido de patente? Quero informações sobre pagamento da anuidade da minha patente? Me fala sobre o pagamento de anuidade de pedido de patente? Quero saber sobre o pagamento de anuidade de patente? Quando começa o pagamento das anuidades? Quais os deveres do titular de uma patente? Me fale sobre a anuidade de pedido de patente? Se eu tiver uma patente, preciso pagá-la todo ano para mantê-la? Como é a questão das taxas?
+#
+AUTOR DA INVENÇÃO
+Definição: A autoria da patente pertence a uma ou várias pessoa(s) física(s) denominada(s) inventor(es).
+Fonte: UNIVERSIDADE DO ESTADO DE SANTA CATARINA. NÚCLEO DE INOVAÇÃO TECNOLÓGICA. 2016. Disponível em: https://web.archive.org/web/20210512153109/https://www.udesc.br/cct/nitec/faq. Acesso em: 08 jan. 2024.
+Sinônimos: autor da patente; inventor da patente.
+Perguntas similares: Quem é o autor de uma patente? Quem é o inventor de uma patente? Quem é o criador de uma patente? Quem é o gerador da ideia por trás de uma patente? Quem é considerado inventor? A quem pertence a autoria da patente? Me fala quem é o autor da patente? Me diz aí quem é o inventor da patente? Detalhe a quem pertence a autoria de uma patente? Para o INPI, quem é o autor da patente? Pessoa física é o autor da patente? Pessoa física é o inventor da patente?
+#
+CRIAÇÃO
+Definição: Denomina-se criação todo e qualquer desenvolvimento tecnológico que possa gerar um produto, processo ou aperfeiçoamento incremental. 
+Fonte: UNIVERSIDADE FEDERAL DO PARANA. Proteja sua invenção. Perguntas frequentes. 2021. Disponível em: https://spin.ufpr.br/proteja-sua-invencao/. Acesso em: 20 jul. 2023. 
+Perguntas similares: O que é considerado uma criação? O que é criação? Você pode me explicar o que é criação? Defina criação Conceitue criação? O que se denomina criação? Quero saber o que é criação? Quais as características de uma criação? Me explica o que seria uma criação? Me detalhe sobre criação? O que se entende sobre o conceito de criação?
+#
+CRITÉRIO DE PATENTEABILIDADE DE INVENÇÃO (IMPLEMENTAÇÃO POR SOFTWARE)
+Definição: 1) Não é considerada invenção o código fonte do programa que traga o benefício de maior velocidade, menor tamanho (seja do código fonte ou do espaço ocupado em memória), modularidade, entre outros, apesar de estes serem efeitos técnicos. [...] Uma criação com aplicação industrial implementada em computador pode ser considerada invenção caso resolva um problema técnico e alcance efeitos técnicos que não digam respeito unicamente ao modo como este programa de computador é escrito.
+2) O programa de computador em si é entendido como a expressão de um conjunto organizado de instruções em linguagem natural ou codificada, referente aos elementos literais  da criação, tal como o código fonte. O programa de computador em si não é considerado invenção, portanto, não é objeto de proteção por patente por ser mera expressão de uma solução técnica, sendo intrinsecamente dependente da linguagem de programação. O regime de  proteção apropriado ao programa de computador em si é o conferido às obras literárias pela legislação de direitos autorais e conexos, conforme indicado na Lei 9.609/98, sendo o INPI o órgão responsável pelo Registro do Programa de Computador (consultar no portal do INPI: Programa de Computador). O inciso V do art. 10 da LPI, ao mencionar que o programa de computador em si não é considerado invenção, apenas separa e distingue os sistemas de proteção quando se está diante de criações que envolvam programas de computador. Criações envolvendo programa de computador possuem duas formas de proteção: por direito autoral, para o programa de computador em si, e por patentes, para processos ou produtos que solucionem problemas técnicos alcançando efeitos técnicos não relacionados exclusivamente a mudanças no código.
+Fonte: 1) INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL. Revista da Propriedade Intelectual. n. 2608, 29 dez. 2020. 18 p. Disponível em: https://www.gov.br/inpi/pt-br/servicos/patentes/legislacao/legislacao/PortariaINPIPR4112020_DIRPAInvenesImplementadasemComputador_05012021.pdf. Acesso em: 06 jan. 2023.
+2) INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL. Manual Básico para Proteção por Patentes de Invenções, Modelos de Utilidade e Certificados de Adição. jul. 2021. Disponível em: https://www.gov.br/inpi/pt-br/servicos/patentes/guia-basico/ManualdePatentes20210706.pdf. Acesso em: 20 jul. 2023.
+Sinônimos: patenteabilidade de invenção implementada por computador; patenteabilidade de invenção implementada por software; patenteabilidade de programa de computador; patenteabilidade de software.
+Perguntas similares: Patente de invenção implementada por computador é diferente de um programa de computador? Qual é a diferença entre uma patente de invenção implementada por computador e um programa de computador? Como uma patente de invenção implementada por computador difere de um programa de computador? Um programa de computador pode ser considerado uma patente de invenção implementada por computador? Existem critérios diferentes para patentear uma invenção implementada por computador em comparação com um programa de computador? Quais são os requisitos para patentear uma invenção implementada por computador versus um programa de computador? O que torna uma patente de invenção implementada por computador única em comparação com um programa de computador? Um programa de computador é elegível para uma patente de invenção implementada por computador? Me sobre o critério de patenteabilidade de software? Quero saber sobre patenteabilidade de software? Um programa de computador pode ser patenteado? Programas de computador podem ser patenteados? Posso patentear um programa de computador? 
+#
+DEPÓSITO DE PEDIDO DE PATENTE (ACOMPANHAMENTO)
+Definição: Por meio de consulta na RPI eletrônica ou na Plataforma e-patentes. É facultado o cadastramento no sistema PUSH, disponível no portal, que não é a informação oficial do INPI. 
+Fonte: INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL. Manual Básico para Proteção por Patentes de Invenções, Modelos de Utilidade e Certificados de Adição. jul. 2021. Disponível em: https://www.gov.br/inpi/pt-br/servicos/patentes/guia-basico/ManualdePatentes20210706.pdf. Acesso em: 20 jul. 2023.   
+Sinônimos: acompanhamento de depósito de pedido de patente; acompanhamento de pedido de patente; situação de depósito de pedido de patente; status de pedido de patente.
+Perguntas similares: Como acompanhar o andamento processual de um pedido de patente depositado? Como posso verificar o status atual do meu pedido de patente? Existe algum serviço online para rastrear o progresso do meu pedido de patente? Quais são os passos para acompanhar o andamento de uma patente no INPI? Como são comunicadas as etapas concluídas no processo de patenteamento? Como consulto o andamento de uma patente? Me explica como vejo o andamento de uma patente?  Como faço para saber como está o andamento do meu pedido de patente? Como acompanho meu pedido de patente? Quero acompanhar meu pedido, como faço? Qual a situação do meu pedido de patente?
+#
+DEPÓSITO DE PEDIDO DE PATENTE (BRASIL)
+Definição: Há duas formas de depósito de um pedido de patente. Pedidos de patente (nacionais) devem ser depositados exclusivamente de forma eletrônica. Sendo assim, todos os documentos anexados aos formulários eletrônicos de pedido de patente de invenção e de modelo de utilidade, certificado de adição de invenção ou petição deverão ser enviados ao INPI como documentos digitais ou digitalizados. A partir de 20 de outubro de 2014, o sistema ePCT-filing passou a ser o meio indicado ao depósito de pedidos internacionais (ou PCT) e envio de documentos associados. O e-PCT é um serviço online da OMPI que permite aos Escritórios receptores, Autoridades Internacionais e usuários cadastrados, acesso eletrônico seguro aos pedidos internacionais depositados através do PCT. 
+Fonte: INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL. Manual Básico para Proteção por Patentes de Invenções, Modelos de Utilidade e Certificados de Adição. jul. 2021. Disponível em: https://www.gov.br/inpi/pt-br/servicos/patentes/guia-basico/ManualdePatentes20210706.pdf. Acesso em: 20 jul. 2023. 
+Sinônimos: depósito de pedido de patente no Brasil; pedido de patente no Brasil.
+Perguntas similares: Como deposito minha patente no Brasil? Como posso depositar um pedido de patente? Como registro minha patente no Brasil? Como registro minha criação no Brasil? Como registro meu invento no Brasil? Me fale sobre depósito de pedido de patente no Brasil? Quero saber sobre pedido de patente no Brasil? Onde depositar um pedido? Como obtenho uma patente? Onde e como apresentar a documentação? Estou com dúvidas sobre como faço para fazer meu depósito de patente? Me fala em detalhes como faço para depositar minha patente no Brasil? Formas de fazer pedido de patente? Maneiras de fazer pedido de patente?  Para registrar uma patente, como faço? Me explica como faço um pedido de patente? 
+#
+DEPÓSITO DE PEDIDO DE PATENTE (BUSCA NA INTERNET)
+Definição: 1) Para acessar os pedidos de patente depositados junto ao INPI, a busca deve ser realizada na base de patentes do INPI (https://www.gov.br/inpi/pt-br). Para acessar os pedidos de patentes depositados em outros países, os sítios de busca mais indicados são: www.espacenet.com e patentscope.wipo.int. 2) A base de dados Derwent World Patents ( http://dii.derwent.com ), oferece acesso on-line a mais de 10 milhões de resumos de patentes de 40 países, incluindo as brasileiras, catalogadas desde 1966. Os resumos são claros e concisos e contêm indexação por palavras-chaves , que asseguram busca rápida e acurada. Esta base é conectada ao Web-of-Science (WoS), podendo inclusive ser acessada através de qualquer patente citada em artigo do WoS. As informações sobre as patentes podem ser procuradas de várias maneiras: pelos nomes dos inventores ou titulares, por suas instituições, pelo número da patente ou código de classificação, ou por palavras-chave que constem de seus títulos e resumos. Também podem ser encontradas as citações de cada patente. Além de ser um poderoso instrumento de pesquisa de patentes, o Derwent World Patents permite o acompanhamento do processo mundial de geração de tecnologia. Derwent Innovations Index. 
+Fonte: 1) UNIVERSIDADE FEDERAL DE MINAS GERAIS. CTIT. Perguntas Frequentes. [201?]. Disponível em: http://www.ctit.ufmg.br/inventor/. Acesso em: 20 jul. 2023. 2) UNIVERSIDADE ESTADUAL DE CAMPINAS. LABORATÓRIO DE QUÍMICA DE ESTADO SÓLLIDO (LQES). O QUE SÃO PATENTES? 2020.  Disponível em: https://lqes.iqm.unicamp.br/canal_cientifico/lqes_responde/lqes_responde_patentes.html. Acesso em:  20 jul. 2023.
+Sinônimos: pesquisa de patente na internet; pesquisa de patente online; procura de patente na internet; procura de patente online.
+Perguntas similares: Como faço busca de patentes na internet? Quais são os passos para fazer uma busca de patentes online? Existem sites específicos onde eu posso pesquisar patentes? Quais ferramentas posso usar para fazer uma busca de patentes na internet? Como posso encontrar patentes específicas online? Como posso fazer uma busca global de patentes na internet? Quais são os melhores recursos online para busca de patentes? Como posso verificar a validade de uma patente através de uma busca na internet? Onde procurar patentes? Como uma patente na internet? Como faço pesquisa de patente na internet? Quero saber sobre busca de pedido de patente internacional? Onde fazer uma busca de patentes? Como busco patentes de outros países? Como consulto patentes existentes? Como posso saber se estou infringindo alguma patente? 
+#
+DEPÓSITO DE PEDIDO DE PATENTE (BUSCA PRÉVIA)
+Definição:
+Fonte:
+Sinônimos: busca prévia de depósito de patente de invenção; busca prévia de depósito de patente de modelo de utilidade; busca prévia de modelo de utilidade; busca prévia de patente; busca prévia de patente de modelo de utilidade; busca prévia de pedido de patente.
+Perguntas similares: Em que consiste a busca prévia ao depósito do pedido de patente? O que é a busca prévia ao depósito do pedido de patente? O que é a busca prévia para o pedido de patente? O que é a busca prévia antes de pedir patente? O que é a busca prévia para o registro de patente? O que é a busca prévia de patente? É necessário fazer uma pesquisa para saber se o invento já existe? Para que serve a busca prévia? Me explica sobre a busca prévia nos pedidos de patente? Me fala sobre busca prévia? Me explique sobre busca prévia em detalhes? Me fale sobre busca prévia em patentes? Quero saber sobre busca prévia em modelo de utilidade? Você pode me explicar sobre busca prévia de patente modelo de utilidade? Fala o que sabe sobre busca prévia em modelo de utilidade? Quero saber tudo sobre busca prévia de modelo de utilidade? Tenho dúvidas sobre busca prévia em depósito de pedido de modelo de utilidade? Com a busca prévia posso saber se estou infringindo alguma patente? 
+
+#
+DEPÓSITO DE PEDIDO DE PATENTE (CUSTOS)
+Definição:
+Fonte:
+Sinônimos: custos do pedido de patente.
+Perguntas similares:
+#
+DEPÓSITO DE PEDIDO DE PATENTE (ELEGIBILIDADE)
+Definição: O invento deve ser original no nível internacional, apresentar potencial comercial e não ser óbvio. Custo e dedicação significativos são requeridos dos escritórios de propriedade intelectual e do inventor para depositar uma patente. Muitas invenções nunca são  patenteadas, algumas são retidas até que se completem ou o mercado esteja pronto para recebê-las, e só algumas são processadas rapidamente. Portanto, várias questões devem receber resposta antes que uma tecnologia seja patenteada. Originalidade e viabilidade técnica. Foi efetuada busca de patentes? O invento é original no nível internacional? Há um protótipo para demonstração? Maturidade do invento. A tecnologia não é prematura, dado o mercado atual? Os possíveis interessados perceberão a sua utilidade? O invento está pronto para produção em escala ou terá que ser desenvolvido pelo licenciado? Quem deverá investir mais para torná-lo fabricável? Mercado potencial. Alguém precisa de tal invento? Há produtos similares no mercado? Em caso positivo, esta invenção é mais barata, melhor que os similares ou apresenta outras vantagens sobre eles? Quem são os possíveis clientes para o invento? Quais são os diferentes mercados para o invento? Há estimativa de mercado atual e futuro? Licenciamento. O protótipo pode ser usado para facilitar o licenciamento? O inventor está interessado em demonstrar o invento aos potenciais licenciadores? Custos. Será necessária patente internacional? O faturamento previsto cobrirá os custos de patenteamento? Dificultadores. Será possível impor e controlar o uso da patente? Necessita de aprovação ou certificação governamental? 
+Fonte: UNIVERSIDADE ESTADUAL DE CAMPINAS. LABORATÓRIO DE QUÍMICA DE ESTADO SÓLLIDO (LQES). O QUE SÃO PATENTES? 2020. Disponível em: https://lqes.iqm.unicamp.br/canal_cientifico/lqes_responde/lqes_responde_patentes.html. Acesso em: 20 jul. 2023.
+Sinônimos: elegibilidade de criação; elegibilidade de invento; viabilidade técnica de depósito de patente; viabilidade técnica de depósito de pedido de patente.
+Perguntas similares: Quando patentear um invento? Em que momento é apropriado patentear uma invenção? Qual é o melhor momento para solicitar uma patente para uma invenção? Quando devo considerar o patenteamento de um invento? Qual é o momento ideal para patentear uma invenção? Quando é o momento correto para iniciar o processo de patente de uma invenção? Quando se deve começar a pensar em patentear uma invenção? Em que estágio do desenvolvimento de um produto devo considerar o patenteamento? Quando uma invenção deve ser patenteada para garantir a proteção de propriedade industrial; Quando devo patentear minha invenção para proteger meus direitos; Quando é aconselhável patentear um invento? Quando minha invenção está apta para eu depositar um pedido de patente? Em que momento o depósito de pedido de patente é aconselhável? Em que momento faço o depósito de registro de patente? Quando ocorre a viabilidade técnica de depósito de pedido de patente? Quando acontece a viabilidade técnica de depósito de patente? Em que momento acontece a elegibilidade de deposito de pedido de patente? Me fala sobre a elegibilidade de deposito de pedido de patente? Qual o momento ideal para patentear? 
+#
+DIVULGAÇÃO DE INVENÇÃO
+Definição:
+Fonte:
+Sinônimos: anúncio de criação; anúncio de invento.
+Perguntas similares:
+#
+PATENTE
+Definição:
+Fonte:
+Sinônimos: carta-patente.
+Perguntas similares:
+#
+SISTEMA DE PATENTES (BENEFÍCIO)
+Definição:
+Fonte:
+Sinônimos: benefício do sistema de patentes.
+Perguntas similares:
+#
+TERRITORIALIDADE DA PATENTE
+Definição:
+Fonte:
+Sinônimos: abrangência da patente.
+Perguntas similares:
+#
+TRANSFERÊNCIA DE TITULARIDADE DA PATENTE
+Definição:
+Fonte:
+Sinônimos: alteração de titularidade de patente.
+Perguntas similares:
+#
+
