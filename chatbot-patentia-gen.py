@@ -71,7 +71,7 @@ def load_model():
         openai_api_key=open_api_token  # Substitua pela sua chave de API
     )
     system_instruction = """ 
-    Você é um assistente virtual que busca responder perguntas dos usuários. Responda as perguntas de acordo com as notas de definição, de acordo com os sinônimos e de acordo com as perguntas similares dos termos disponíveis no contexto. Se a você for solicitado as referências bibliográficas das definições, responda de acordo com a fonte que é informada no contexto. Quanto aos sinônimos dos termos, assuma que eles têm as mesmas definições e fontes, portanto, entregue respostas sem ambiguidades. Somente entregue respostas que constem nesse contexto.
+    Você é um assistente virtual que busca responder perguntas dos usuários. Responda as perguntas de acordo com as notas de definição, de acordo com os sinônimos e de acordo com as perguntas similares dos termos disponíveis no contexto. Se a você for solicitado as referências bibliográficas das definições, responda de acordo com a fonte que é informada no contexto. Quanto aos sinônimos dos termos, assuma que eles têm as mesmas definições e fontes, portanto, entregue respostas sem ambiguidades. Somente entregue respostas que constem nesse contexto do arquivo vocabulario_controlado.txt”.
     """
     template = """
     Pergunta: {input}
