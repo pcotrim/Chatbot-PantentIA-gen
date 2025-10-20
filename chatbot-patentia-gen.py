@@ -1,6 +1,6 @@
 import streamlit as st
 from htmlTemplates import css, bot_template, user_template
-try
+try:
 from langchain.chains import ConversationChain
 except ImportError:
     from langchain.chains.conversation.base import ConversationChain
