@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
- st.set_page_config(page_title="Chatbot-PatentIA-gen",
+st.set_page_config(page_title="Chatbot-PatentIA-gen",
                        page_icon=":books:")
 import tiktoken
 
