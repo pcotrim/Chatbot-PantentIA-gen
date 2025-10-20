@@ -1,10 +1,8 @@
-import streamlit as st
-from htmlTemplates import css, bot_template, user_template
 import os
 from dotenv import load_dotenv
 import tiktoken
 
-# Importações SIMPLIFICADAS do LangChain
+# Apenas estas importações - NADA MAIS!
 from langchain_community.chat_models import ChatOpenAI
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
