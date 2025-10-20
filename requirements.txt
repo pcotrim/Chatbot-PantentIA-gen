@@ -1,10 +1,11 @@
 streamlit
+tiktoken
 langchain
 langchain-community
-openai
-tiktoken
-python-dotenv
-sentence-transformers
-faiss-cpu
-langchain-huggingface
 langchain-core
+langchain-openai
+python-dotenv
+langchain-huggingface
+sentence-transformers
+openai
+faiss-cpu
