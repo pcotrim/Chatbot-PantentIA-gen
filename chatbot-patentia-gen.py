@@ -1,20 +1,15 @@
 import streamlit as st
 from htmlTemplates import css, bot_template, user_template
-from langchain.chains import LLMChain
-#from langchain.chat_models import ChatOpenAI
-from langchain_community.chat_models import ChatOpenAI
-#from langchain_groq import ChatGroq
-#from langchain.memory import ConversationBufferMemory
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.output_parsers import StrOutputParser
-
 import os
 from dotenv import load_dotenv
 import tiktoken
+
+# Importações SIMPLIFICADAS do LangChain
+from langchain_community.chat_models import ChatOpenAI
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.prompts.prompt import PromptTemplate
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
 from langchain.schema import Document
 
 load_dotenv(dotenv_path='.env')
