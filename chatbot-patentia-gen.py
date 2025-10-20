@@ -1,7 +1,5 @@
 import os
 from dotenv import load_dotenv
-st.set_page_config(page_title="Chatbot-PatentIA-gen",
-                       page_icon=":books:")
 import tiktoken
 
 # Apenas estas importações - NADA MAIS!
@@ -11,6 +9,8 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.documents import Document
+st.set_page_config(page_title="Chatbot-PatentIA-gen",
+                       page_icon=":books:")
 
 load_dotenv(dotenv_path='.env')
 open_api_token = os.getenv("OPENAI_API_TOKEN")
