@@ -1,15 +1,34 @@
+import streamlit as st
+from htmlTemplates import css, bot_template, user_template
+
+#from langchain.chains import ConversationChain
+#from langchain.memory import ConversationBufferMemory
+#from langchain.chat_models import ChatOpenAI
+#from langchain_community.chains import ConversationChain
+#from langchain_openai import ChatOpenAI
+#from langchain_core.prompts import PromptTemplate
+#from langchain.memory import ConversationBufferMemory
+
+#from langchain.chains import ConversationChain
+#from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
+#from langchain_groq import ChatGroq
+#from langchain.memory import ConversationBufferMemory
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+
 import os
 from dotenv import load_dotenv
 import tiktoken
-st.set_page_config(page_title="Chatbot-PatentIA-gen",
-                       page_icon=":books:")
-# Apenas estas importações - NADA MAIS!
-from langchain_community.chat_models import ChatOpenAI
 from langchain_huggingface import HuggingFaceEmbeddings
+##from langchain.prompts.prompt import PromptTemplate
+from langchain_core.prompts import PromptTemplate
+##from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.output_parsers import StrOutputParser
+##from langchain.schema import Document
 from langchain_core.documents import Document
+from langchain_core.messages import HumanMessage, AIMessage
 
 load_dotenv(dotenv_path='.env')
 open_api_token = os.getenv("OPENAI_API_TOKEN")
@@ -33,7 +52,6 @@ def load_doc():
     ##    length_function=count_tokens,
     ##    separators=["#"] 
     ##)
-    
     text_splitter = text2.split("#")
     chunks2 = [Document(page_content=chunk, metadata={"source": "vocabulario_controlado.txt", "row": i})
               for i, chunk in enumerate(text_splitter)]
