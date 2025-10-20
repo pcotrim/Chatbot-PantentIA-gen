@@ -121,7 +121,7 @@ def ask_pdf(user_input, history):
 
 
 def main():
-       st.write(css, unsafe_allow_html=True)
+    st.write(css, unsafe_allow_html=True)
     st.header("Bem-vindo ao Chatbot-PatentIA-gen!")
 
     if "messages" not in st.session_state:
