@@ -3,7 +3,10 @@ from htmlTemplates import css, bot_template, user_template
 try:
     from langchain.chains import ConversationChain
 except ImportError:
-    from langchain.chains.conversation.base import ConversationChain
+    try:
+        from langchain_community.chains import ConversationChain
+    except ImportError:
+        from langchain.chains.conversation.base import ConversationChain
 #from langchain.chat_models import ChatOpenAI
 from langchain_community.chat_models import ChatOpenAI
 #from langchain_groq import ChatGroq
