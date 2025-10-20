@@ -1,5 +1,7 @@
 import os
 from dotenv import load_dotenv
+ st.set_page_config(page_title="Chatbot-PatentIA-gen",
+                       page_icon=":books:")
 import tiktoken
 
 # Apenas estas importações - NADA MAIS!
@@ -119,9 +121,7 @@ def ask_pdf(user_input, history):
 
 
 def main():
-    st.set_page_config(page_title="Chatbot-PatentIA-gen",
-                       page_icon=":books:")
-    st.write(css, unsafe_allow_html=True)
+       st.write(css, unsafe_allow_html=True)
     st.header("Bem-vindo ao Chatbot-PatentIA-gen!")
 
     if "messages" not in st.session_state:
