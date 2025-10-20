@@ -1,12 +1,23 @@
 import streamlit as st
 from htmlTemplates import css, bot_template, user_template
 try:
+    # Tentativa 1 - Importação padrão
     from langchain.chains import ConversationChain
+    print("✓ Usando langchain.chains")
 except ImportError:
     try:
+        # Tentativa 2 - Importação da comunidade
         from langchain_community.chains import ConversationChain
+        print("✓ Usando langchain_community.chains")
     except ImportError:
-        from langchain.chains.conversation.base import ConversationChain
+        try:
+            # Tentativa 3 - Importação alternativa
+            from langchain.chains.conversation.base import ConversationChain
+            print("✓ Usando langchain.chains.conversation.base")
+        except ImportError:
+            # Tentativa 4 - Último recurso
+            from langchain import ConversationChain
+            print("✓ Usando langchain direto")
 #from langchain.chat_models import ChatOpenAI
 from langchain_community.chat_models import ChatOpenAI
 #from langchain_groq import ChatGroq
