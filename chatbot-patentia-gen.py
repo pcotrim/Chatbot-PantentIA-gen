@@ -106,8 +106,6 @@ def ask_pdf(user_input, history):
     #st.markdown("Dados carregados no Vector store...")
     # similar_response = db.similarity_search(query,k=3)
     similar_response = db.similarity_search_with_score(user_input, k=1)
-    if similar_response[0][1] > 1.0:
-        return "Não encontrei essa informação no contexto disponível."
     st.markdown("Teste de similaridade concluído...")
     # Exibindo os resultados com suas pontuações
     docs = []
