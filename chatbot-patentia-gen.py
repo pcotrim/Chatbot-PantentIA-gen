@@ -55,6 +55,7 @@ def load_doc():
     ##    length_function=count_tokens,
     ##    separators=["#"] 
     ##)
+    
     text_splitter = text2.split("#")
     chunks2 = [Document(page_content=chunk, metadata={"source": "vocabulario_controlado.txt", "row": i})
               for i, chunk in enumerate(text_splitter)]
@@ -85,7 +86,7 @@ def load_model():
         openai_api_key=open_api_token  # Substitua pela sua chave de API
     )
     system_instruction = """ 
-    Você é um assistente virtual que busca responder perguntas dos usuários. Responda as perguntas de acordo com as notas de definição, de acordo com os sinônimos e de acordo com as perguntas similares dos termos disponíveis no contexto. Se a você for solicitado as referências bibliográficas das definições, responda de acordo com a fonte que é informada no contexto. Quanto aos sinônimos dos termos, assuma que eles têm as mesmas definições e fontes, portanto, entregue respostas sem ambiguidades. Somente entregue respostas que constem nesse contexto do arquivo vocabulario_controlado.txt”.
+    Você é um assistente virtual que busca responder perguntas dos usuários. Responda as perguntas de acordo com as notas de definição dos termos disponíveis no contexto. Se a você for solicitado as referências bibliográficas das definições, responda de acordo com a garantia literária que é informada no contexto. Nele estão disponíveis também sinônimos de alguns termos, assuma que esses termos que possuem sinônimos, têm as mesmas definições e referências bibliográficas, portanto, entregue respostas sem ambiguidades. Somente entregue respostas que constem nesse contexto.
     """
     template = """
     Pergunta: {input}
@@ -141,8 +142,10 @@ def ask_pdf(user_input, history):
 
 
 def main():
+    st.set_page_config(page_title="ChatbotPI",
+                       page_icon=":books:")
     st.write(css, unsafe_allow_html=True)
-    st.header("Bem-vindo ao Chatbot-PatentIA-gen!")
+    st.header("Bem-vindo ao ChatbotPI!")
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
